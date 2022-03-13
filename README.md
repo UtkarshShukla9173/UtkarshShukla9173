@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UtkarshShukla9173
+- 👋 Hi, I’m Utkarsh Shukla
 - 👀 I’m interested in Data Science and Artifical Intelligence
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on NodeJs and Python projects
